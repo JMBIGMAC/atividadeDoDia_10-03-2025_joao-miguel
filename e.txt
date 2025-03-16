@@ -1,1 +1,13 @@
 .
+preciso que voçe fassa um jogo da memoria nele(pode deletar/substituir oque for necessario);
+o jogo deve ter :
+Estruturar os arquivos e criar/modifiacr os componentes principais (App.jsx, GameBoard.jsx, Card.jsx).
+
+- 8 cartas diferentes(apenas o lugar de colocalas para eu baixar na net e ja colocar aqui)
+- um plano de fundo escuro -um score de pontos funções:
+- as cartas devem aumentar de tamanho ao passar o mause em cima 
+- as cartas devem ter um efeito de ser des-viradas ao clicar(sim eu quero elas já viradas,de costas, quando o jogo começar)
+
+- deve ter uma função para verificar se a carta clicada é igual a outra carta clicada. se for iqual elas continuam des-viradas , do contrario ambas voltam a continuar viradas.
+
+comsegue ?
