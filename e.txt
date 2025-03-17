@@ -11,3 +11,4 @@ Estruturar os arquivos e criar/modifiacr os componentes principais (App.jsx, Gam
 - deve ter uma função para verificar se a carta clicada é igual a outra carta clicada. se for iqual elas continuam des-viradas , do contrario ambas voltam a continuar viradas.
 
 comsegue ?
+git add  memory-game/public/card1.png memory-game/public/card2.png memory-game/public/card3.png memory-game/public/card4.png memory-game/public/card5.png memory-game/public/card6.png memory-game/public/card7.png memory-game/public/card8.png memory-game/src/Card.jsx memory-game/src/GameBoard.jsx

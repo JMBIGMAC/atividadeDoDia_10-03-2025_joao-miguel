@@ -99,5 +99,30 @@ h1 {
 .reset-button:hover {
   background-color: #45a049;
 }
+/* win */
+.win-message {
+  margin-top: 20px;
+  font-size: 1.5em;
+  color: #4caf50;
+}
+/* game */
+.game-info {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 20px;
+  font-size: 1.2em;
+}
 
+.timer {
+  color: #ffcc00; /* Amarelo para o cronômetro */
+}
 
+.lives {
+  color: #ff4d4d; /* Vermelho para as vidas */
+}
+
+.game-over-message {
+  margin-top: 20px;
+  font-size: 1.5em;
+  color: #ff4d4d;
+}
